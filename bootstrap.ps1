@@ -4,11 +4,13 @@ Write-Host "=== Installing applications ===" -ForegroundColor Green
 
 $packages = @(
     "Git.Git"
+	"IrfanSkiljan.IrfanView"
     "Microsoft.PowerShell"
 	"Microsoft.WindowsTerminal"
 	"Microsoft.Sysinternals.Suite"
 	"7zip.7zip"
 	"Notepad++.Notepad++"
+	"VideoLAN.VLC"
 	"WinMerge.WinMerge"
 	"Python.Python.3.13"
 )
